@@ -11,7 +11,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd4ZWQyY3k2ZWM2Z2hrb2R5ZGVqbDVrbXBjNXJ6b2VhNzJyOGJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+</div>
 
 ###
 
