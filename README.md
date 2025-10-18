@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Marvin and I'm a BS Computer Engineering student from Colegio De Montalban</h2>
+<h2 align="left">Hi 👋! My name is Marvin and I'm a 4th yr BS Computer Engineering student from Colegio De Montalban</h2>
 
 ###
 
